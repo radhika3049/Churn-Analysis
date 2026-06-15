@@ -13,6 +13,7 @@ Detect high-risk customer segments.
 Provide data-driven recommendations to improve customer retention and reduce revenue loss.
 
 🛠️ Tools & Technologies
+
 Power BI
 DAX (Data Analysis Expressions)
 Power Query
@@ -25,6 +26,7 @@ Interactive Visualizations
 Provides an executive overview of the customer base through key performance indicators and customer distribution insights.
 
 Key Metrics:
+
 Total Customers
 Churned Customers
 Churn Rate (%)
@@ -48,7 +50,9 @@ Leverages advanced Power BI capabilities to identify high-risk customers and unc
 Advanced Visuals Included:
 
 Top 5 High-Risk Customer Segments
+
 Key Influencers
+
 Decomposition Tree
 
 🔍 Key Insights
