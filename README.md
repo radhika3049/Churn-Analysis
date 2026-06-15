@@ -135,15 +135,18 @@ By combining executive reporting, diagnostic analysis, and root cause exploratio
 
 ### 🏠 Welcome Page
 
-> Add a screenshot of the Welcome Page here.
+<img width="806" height="451" alt="image" src="https://github.com/user-attachments/assets/7870c92d-38f1-420e-bd4d-f0c66acd4691" />
+
 
 ### 📉 Churn Analysis
 
-> Add a screenshot of the Churn Analysis Page here.
+<img width="941" height="562" alt="image" src="https://github.com/user-attachments/assets/6f3a63ea-93b3-46c0-b4a3-3e37089d2f9a" />
+
 
 ### ⚠️ Customer Risk Analysis
 
-> Add a screenshot of the Customer Risk Analysis Page here.
+<img width="802" height="715" alt="image" src="https://github.com/user-attachments/assets/bd07ad1e-330a-403a-bb06-2e1a6daac24a" />
+
 
 ---
 
