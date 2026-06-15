@@ -15,15 +15,19 @@ Provide data-driven recommendations to improve customer retention and reduce rev
 🛠️ Tools & Technologies
 
 Power BI
+
 DAX (Data Analysis Expressions)
+
 Power Query
+
 Data Modeling
+
 Interactive Visualizations
 
 📌 Dashboard Structure
 
 1. Welcome Page
-Provides an executive overview of the customer base through key performance indicators and customer distribution insights.
+   Provides an executive overview of the customer base through key performance indicators and customer distribution insights.
 
 Key Metrics:
 
